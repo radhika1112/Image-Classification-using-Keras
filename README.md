@@ -1,10 +1,10 @@
 # Image-Classification-using-Keras
 The aim is to do build a classifier and test it on a collection of images for a new task using Keras. Simple to deep convolutional neural networks will be employed to classify images directly into 5 classes of food dataset.
 
-1. INTRODUCTION
+# 1. INTRODUCTION
 The aim of this excercise is to do build a classifier and test it on a collection of images for a new task using Keras. Simple to deep convolutional neural networks will be employed to classify images directly into 5 classes of food dataset.
 
-1.1 OVERVIEW
+# 1.1 OVERVIEW
 In order to classify several food dishes into its respective categories, following strategy is being used:
 
 Step 1: Build a simple baseline model and train the food dataset on the model. Analyse its accuracy and loss using graphs.
